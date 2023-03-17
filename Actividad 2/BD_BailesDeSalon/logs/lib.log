@@ -1,0 +1,42 @@
+08:34:21.378  INFO  [lib BD_BailesDeSalon] Qizx 4.4p1 creating new XML Library in C:\Users\1DAW_2223_09\Desktop\Grado\LENGUAJE DE MARCAS\UNIDAD 6\Tarea\Actividad 2\BD_BailesDeSalon
+08:34:21.379  INFO  [lib BD_BailesDeSalon] create storage in C:\Users\1DAW_2223_09\Desktop\Grado\LENGUAJE DE MARCAS\UNIDAD 6\Tarea\Actividad 2\BD_BailesDeSalon\contents.qdb
+08:34:21.384  INFO  [lib BD_BailesDeSalon] storage created
+08:34:21.646  INFO  [lib BD_BailesDeSalon] library creation done
+08:36:23.233  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+08:36:23.264  INFO  [lib BD_BailesDeSalon] commit 1 on BD_BailesDeSalon (session 1)
+08:36:23.280  INFO  [lib BD_BailesDeSalon] commit 1 done
+08:36:23.280  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 ][ 1 2 ]
+08:36:23.280  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 metadocs: 5
+08:36:26.938  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+08:36:26.953  INFO  [lib BD_BailesDeSalon] commit 2 on BD_BailesDeSalon (session 1)
+08:36:26.969  INFO  [lib BD_BailesDeSalon] commit 2 done
+08:36:26.969  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 2 ][ 1 2 3 ]
+08:36:26.985  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 8 in ms 0.1264
+08:36:26.985  INFO  [lib BD_BailesDeSalon] sweeper deleted 2/2 metadocs: 9, 11
+08:36:28.957  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+08:36:28.972  INFO  [lib BD_BailesDeSalon] commit 3 on BD_BailesDeSalon (session 1)
+08:36:28.988  INFO  [lib BD_BailesDeSalon] commit 3 done
+08:36:28.988  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 2 3 ][ 1 2 3 4 ]
+08:36:28.988  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 14 in ms 0.041
+08:36:28.988  INFO  [lib BD_BailesDeSalon] sweeper deleted 2/2 metadocs: 15, 17
+09:22:20.699  INFO  [lib BD_BailesDeSalon] All sessions closed
+09:22:20.700  INFO  [lib BD_BailesDeSalon] Sweeper stopped
+09:22:20.703  INFO  [lib BD_BailesDeSalon] library closed 
+09:22:31.915  INFO  [lib BD_BailesDeSalon] Library opened by Qizx 4.4p1
+09:22:31.915  INFO  [lib BD_BailesDeSalon]  location C:\Users\1DAW_2223_09\Desktop\Grado\LENGUAJE DE MARCAS\UNIDAD 6\Tarea\Actividad 2\BD_BailesDeSalon
+09:22:31.915  INFO  [lib BD_BailesDeSalon]  document storage version=5, lastBId=25, BCount=18, maxA=502
+09:24:15.037  INFO  [lib BD_BailesDeSalon] All sessions closed
+09:24:15.037  INFO  [lib BD_BailesDeSalon] library closed 
+09:24:28.443  INFO  [lib BD_BailesDeSalon] Library opened by Qizx 4.4p1
+09:24:28.443  INFO  [lib BD_BailesDeSalon]  location C:\Users\1DAW_2223_09\Desktop\Grado\LENGUAJE DE MARCAS\UNIDAD 6\Tarea\Actividad 2\BD_BailesDeSalon
+09:24:28.443  INFO  [lib BD_BailesDeSalon]  document storage version=5, lastBId=25, BCount=18, maxA=502
+09:27:00.157  INFO  [lib BD_BailesDeSalon] All sessions closed
+09:27:00.158  INFO  [lib BD_BailesDeSalon] library closed 
+09:27:16.448  INFO  [lib BD_BailesDeSalon] Library opened by Qizx 4.4p1
+09:27:16.448  INFO  [lib BD_BailesDeSalon]  location C:\Users\1DAW_2223_09\Desktop\Grado\LENGUAJE DE MARCAS\UNIDAD 6\Tarea\Actividad 2\BD_BailesDeSalon
+09:27:16.448  INFO  [lib BD_BailesDeSalon]  document storage version=5, lastBId=25, BCount=18, maxA=502
+09:28:12.946  INFO  [lib BD_BailesDeSalon] All sessions closed
+09:28:12.947  INFO  [lib BD_BailesDeSalon] library closed 
+09:28:49.627  INFO  [lib BD_BailesDeSalon] Library opened by Qizx 4.4p1
+09:28:49.627  INFO  [lib BD_BailesDeSalon]  location C:\Users\1DAW_2223_09\Desktop\Grado\LENGUAJE DE MARCAS\UNIDAD 6\Tarea\Actividad 2\BD_BailesDeSalon
+09:28:49.627  INFO  [lib BD_BailesDeSalon]  document storage version=5, lastBId=25, BCount=18, maxA=502

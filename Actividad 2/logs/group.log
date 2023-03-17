@@ -1,0 +1,26 @@
+08:32:51.019  INFO  [LibraryManager] ---- group creation in C:\Users\1DAW_2223_09\Desktop\Grado\LENGUAJE DE MARCAS\UNIDAD 6\Tarea\Actividad 2
+08:32:51.019  INFO  [LibraryManager]  100
+09:22:20.698  INFO  [LibraryManager] shutdown begins
+09:22:20.703  INFO  [LibraryManager]  closed library BD_BailesDeSalon
+09:22:20.703  INFO  [LibraryManager] shutdown complete.
+09:22:31.906  INFO  [LibraryManager] ---- starting up ----
+09:22:31.907  INFO  [LibraryManager]  100
+09:22:31.915  INFO  [LibraryManager] Library group ready
+09:24:15.036  INFO  [LibraryManager] shutdown begins
+09:24:15.038  INFO  [LibraryManager]  closed library BD_BailesDeSalon
+09:24:15.038  INFO  [LibraryManager] shutdown complete.
+09:24:28.359  INFO  [LibraryManager] ---- starting up ----
+09:24:28.360  INFO  [LibraryManager]  100
+09:24:28.443  INFO  [LibraryManager] Library group ready
+09:27:00.157  INFO  [LibraryManager] shutdown begins
+09:27:00.159  INFO  [LibraryManager]  closed library BD_BailesDeSalon
+09:27:00.159  INFO  [LibraryManager] shutdown complete.
+09:27:16.370  INFO  [LibraryManager] ---- starting up ----
+09:27:16.370  INFO  [LibraryManager]  100
+09:27:16.448  INFO  [LibraryManager] Library group ready
+09:28:12.945  INFO  [LibraryManager] shutdown begins
+09:28:12.947  INFO  [LibraryManager]  closed library BD_BailesDeSalon
+09:28:12.947  INFO  [LibraryManager] shutdown complete.
+09:28:49.616  INFO  [LibraryManager] ---- starting up ----
+09:28:49.617  INFO  [LibraryManager]  100
+09:28:49.627  INFO  [LibraryManager] Library group ready
