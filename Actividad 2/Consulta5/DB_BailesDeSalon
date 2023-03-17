@@ -1,0 +1,27 @@
+<html>
+<body>	
+<h1> Bailes ofertados </h1>
+<table border="1">
+<tr>
+<th>Nombre baile</th>
+<th>Nombre profesor</th>
+<th>Plazas ofertada</th>
+</tr>
+{
+for $baile in doc("BD_BailesDeSalon.xml")//Bailes/baile
+let $nombre:=$baile/nombre
+let $profesor:=$baile/profesor
+let $plazas:=$baile/plazas
+where $baile/precio[@cuota = "trimestral"]
+order by $baile/plazas
+return
+	<tr>
+	  <td>{data($nombre)}</td>
+	  <td>{data($profesor)}</td>
+	  <td>{data($plazas)}</td>
+	</tr>
+}
+</table>
+</body>
+</html>
+	
