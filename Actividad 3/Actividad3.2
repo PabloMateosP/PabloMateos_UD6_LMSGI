@@ -1,0 +1,3 @@
+for $libro in doc("BD_Libros.xml")//Libros/libro
+where $libro/NumPaginas < 500
+return $libro
